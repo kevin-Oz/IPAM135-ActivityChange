@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppClase</string>
+    <string name="lblname">Nombre</string>
+    <string name="lblapellido">Apellido</string>
+    <string name="lbledad">Edad</string>
+    <string name="lblcorreo">Correo</string>
+    <string name="lblEnviar">Enviar</string>
+    <string name="lblResgistros">Información de Registro</string>
+</resources>
